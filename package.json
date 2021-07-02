@@ -1,0 +1,23 @@
+{
+  "name": "JavaScriptII-GamaAcademy",
+  "version": "1.0.0",
+  "description": "Projeto final para exercitar todos os ensinamentos apreendidos até agora de JavaScript.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wemersonsantos/JavaScriptII-GamaAcademy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wemersonsantos/JavaScriptII-GamaAcademy/issues"
+  },
+  "homepage": "https://github.com/wemersonsantos/JavaScriptII-GamaAcademy#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
